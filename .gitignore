@@ -6,3 +6,7 @@ target/
 *.iml
 /src/main/resources/generatorConfig.xml
 
+work.md
+secret.md
+tmp.md
+

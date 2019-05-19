@@ -15,6 +15,3 @@ eg： registry.fit2cloud.com/fit2cloud2/master/redis:1.0.0
 ```
 
 
-
-
-
