@@ -56,3 +56,9 @@ docker run -d -p 56379:6379 -v /Users/dongbin/redis/backup:/data hub.c.163.com/l
 docker run -it hub.c.163.com/library/redis:latest /bin/bash
 ```
 
+执行完命令后删除容器
+
+```shell
+ docker run -it --rm  percona/percona-xtradb-cluster-operator:1.0.0-backup /bin/bash -c 'ls /usr/bin | grep sh'
+```
+
